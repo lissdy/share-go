@@ -1,4 +1,4 @@
-module share-go
+module github.com/lissdy/share-go
 
 go 1.13
 
